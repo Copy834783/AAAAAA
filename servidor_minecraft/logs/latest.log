@@ -994,3 +994,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [20Dec2024 04:41:09.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Chompy]
 [20Dec2024 04:41:45.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1945.500000, 88.500000, 4522.500000]
 [20Dec2024 04:42:25.004] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Valė'/153629, l='ServerLevel[world]', x=-1914.45, y=90.18, z=4575.19] died, message: 'Valė was slain by Zombie'
+[20Dec2024 04:44:27.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2089.500000, 92.500000, 4458.500000]
+[20Dec2024 04:44:41.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -2092.500000, 94.500000, 4465.500000]
+[20Dec2024 04:47:16.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2271.500000, 67.500000, 4232.500000]
+[20Dec2024 04:47:24.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -2265.500000, 67.500000, 4234.500000]
+[20Dec2024 04:48:07.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 cooked in Pyromancer's fiery field
+[20Dec2024 04:48:07.459] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[20Dec2024 04:48:29.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has completed the challenge [Premium!]
+[20Dec2024 04:48:30.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Ancient Knight
+[20Dec2024 04:48:30.809] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 04:48:41.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Into Fire]
+[20Dec2024 04:49:05.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Ol' Betsy]
+[20Dec2024 04:49:05.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Take Aim]
