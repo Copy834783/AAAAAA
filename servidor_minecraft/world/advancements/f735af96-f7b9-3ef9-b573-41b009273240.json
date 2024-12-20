@@ -481,6 +481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 04:17:19 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:24:36 +0000"
@@ -2094,6 +2100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 04:17:10 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2024-12-20 02:25:17 +0000"
@@ -2946,6 +2958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-20 04:19:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 02:20:49 +0000"
@@ -3202,6 +3220,12 @@
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2024-12-20 02:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 04:19:21 +0000"
     },
     "done": true
   },
@@ -3686,6 +3710,12 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 04:13:31 +0000"
     },
     "done": true
   },
