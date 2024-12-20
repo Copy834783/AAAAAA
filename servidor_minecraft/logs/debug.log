@@ -9287,3 +9287,103 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [20Dec2024 03:49:34.040] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-800, y=-6, z=3784}
 [20Dec2024 03:51:29.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Dec2024 03:51:29.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 03:52:13.798] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-824, y=-6, z=3797}
+[20Dec2024 03:52:13.799] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-830, y=-6, z=3812}
+[20Dec2024 03:52:13.799] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-812, y=-20, z=3792}
+[20Dec2024 03:52:13.800] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-829, y=-6, z=3800}
+[20Dec2024 03:52:13.823] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-824, y=-6, z=3797}
+[20Dec2024 03:52:13.823] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-830, y=-6, z=3812}
+[20Dec2024 03:52:13.823] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-839, y=-6, z=3809}
+[20Dec2024 03:52:15.416] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-812, y=-20, z=3792}
+[20Dec2024 03:52:19.858] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-830, y=-6, z=3812}
+[20Dec2024 03:52:19.858] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-838, y=-6, z=3813}
+[20Dec2024 03:52:19.859] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-829, y=-6, z=3800}
+[20Dec2024 03:52:19.859] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-829, y=-6, z=3814}
+[20Dec2024 03:52:19.876] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-830, y=-6, z=3812}
+[20Dec2024 03:52:19.877] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-838, y=-6, z=3813}
+[20Dec2024 03:52:19.877] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-839, y=-6, z=3809}
+[20Dec2024 03:52:19.878] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-839, y=-6, z=3825}
+[20Dec2024 03:52:19.878] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-842, y=-13, z=3810}
+[20Dec2024 03:52:19.878] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-843, y=-13, z=3820}
+[20Dec2024 03:52:19.878] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-837, y=-13, z=3810}
+[20Dec2024 03:52:34.856] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-838, y=-6, z=3813}
+[20Dec2024 03:52:34.857] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-832, y=-6, z=3845}
+[20Dec2024 03:52:34.857] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-839, y=-6, z=3825}
+[20Dec2024 03:52:34.858] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-837, y=-6, z=3845}
+[20Dec2024 03:52:34.859] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-843, y=-13, z=3834}
+[20Dec2024 03:52:34.859] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-842, y=-13, z=3810}
+[20Dec2024 03:52:34.884] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-837, y=-6, z=3845}
+[20Dec2024 03:52:35.113] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-838, y=-6, z=3813}
+[20Dec2024 03:52:35.113] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-832, y=-6, z=3845}
+[20Dec2024 03:52:35.114] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-829, y=-6, z=3814}
+[20Dec2024 03:52:35.114] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-831, y=-13, z=3835}
+[20Dec2024 03:52:35.115] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-843, y=-13, z=3834}
+[20Dec2024 03:52:41.526] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-792, y=-6, z=3790}
+[20Dec2024 03:54:45.919] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[20Dec2024 03:54:57.087] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-837, y=-6, z=3845}
+[20Dec2024 03:54:57.137] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-832, y=-6, z=3845}
+[20Dec2024 03:54:57.138] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-837, y=-6, z=3845}
+[20Dec2024 03:55:05.318] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[20Dec2024 03:55:14.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Chest Slayer]
+[20Dec2024 03:55:15.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Mimic
+[20Dec2024 03:55:15.009] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-1042, y:3, z:3630, dim:minecraft:overworld]
+[20Dec2024 03:55:15.012] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 03:55:24.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Magery]
+[20Dec2024 03:56:04.156] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-832, y=-6, z=3845}
+[20Dec2024 03:56:04.156] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-831, y=-13, z=3835}
+[20Dec2024 03:56:29.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 03:56:29.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 03:56:57.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was shot by Skeleton
+[20Dec2024 03:56:57.069] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-1006, y:13, z:3600, dim:minecraft:overworld]
+[20Dec2024 03:56:57.083] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 03:57:41.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 moved wrongly!
+[20Dec2024 03:58:18.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ice Dragon
+[20Dec2024 03:58:18.252] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-1185, y:64, z:3988, dim:minecraft:overworld]
+[20Dec2024 03:58:18.281] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[20Dec2024 03:58:52.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Chain Death]
+[20Dec2024 03:58:52.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ice Dragon
+[20Dec2024 03:58:52.813] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-1235, y:65, z:3974, dim:minecraft:overworld]
+[20Dec2024 03:58:52.840] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[20Dec2024 03:59:14.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was frozen by Ice Dragon
+[20Dec2024 03:59:14.295] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[20Dec2024 03:59:31.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ice Dragon
+[20Dec2024 03:59:31.865] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-1235, y:65, z:3976, dim:minecraft:overworld]
+[20Dec2024 03:59:31.899] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[20Dec2024 03:59:41.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Zombie
+[20Dec2024 03:59:41.102] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-1036, y:25, z:3606, dim:minecraft:overworld]
+[20Dec2024 03:59:41.117] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 04:01:19.031] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[20Dec2024 04:01:23.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Tools of the Trade]
+[20Dec2024 04:01:29.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 04:01:29.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 04:02:07.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has completed the challenge [Cannibal]
+[20Dec2024 04:02:48.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Sweet Dreams]
+[20Dec2024 04:03:40.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 burned to death
+[20Dec2024 04:03:40.968] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-1080, y:29, z:3607, dim:minecraft:overworld]
+[20Dec2024 04:03:40.976] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 04:03:57.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Hot Stuff]
+[20Dec2024 04:04:01.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has reached the goal [Chain Death]
+[20Dec2024 04:04:01.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 tried to swim in lava
+[20Dec2024 04:04:01.621] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-1091, y:35, z:3623, dim:minecraft:overworld]
+[20Dec2024 04:04:01.626] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 04:04:54.821] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[20Dec2024 04:04:55.083] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[20Dec2024 04:05:12.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [A True Source of Evil]
+[20Dec2024 04:06:21.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Celes (vehicle of Juan123) moved wrongly! 0.30004599415519806
+[20Dec2024 04:06:21.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Celes (vehicle of Juan123) moved wrongly! 0.619093045248519
+[20Dec2024 04:06:21.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Celes (vehicle of Juan123) moved wrongly! 0.9408550108023112
+[20Dec2024 04:06:21.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Celes (vehicle of Juan123) moved wrongly! 1.2930024362488355
+[20Dec2024 04:06:21.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Celes (vehicle of Juan123) moved wrongly! 1.677288107865432
+[20Dec2024 04:06:21.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Celes (vehicle of Juan123) moved wrongly! 2.0761329695393753
+[20Dec2024 04:06:29.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 04:06:29.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 04:06:42.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ForgeChocobo['Celes'/125914, l='ServerLevel[world]', x=-1447.69, y=71.00, z=4013.04] died: Celes was slain by Juan123
+[20Dec2024 04:08:10.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 fell from a high place
+[20Dec2024 04:08:10.930] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-1031, y:4, z:3626, dim:minecraft:overworld]
+[20Dec2024 04:08:10.931] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 04:08:22.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to xentros10000]
+[20Dec2024 04:10:08.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Convergent Evolution...]
+[20Dec2024 04:10:48.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Ambush]
+[20Dec2024 04:11:25.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to xentros10000]
+[20Dec2024 04:11:29.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 04:11:29.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

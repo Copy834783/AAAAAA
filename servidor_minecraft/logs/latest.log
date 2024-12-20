@@ -918,3 +918,44 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [20Dec2024 03:45:48.714] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
 [20Dec2024 03:45:50.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Here They Come]
 [20Dec2024 03:49:00.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to xentros10000]
+[20Dec2024 03:55:14.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Chest Slayer]
+[20Dec2024 03:55:15.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Mimic
+[20Dec2024 03:55:15.012] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 03:55:24.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Magery]
+[20Dec2024 03:56:57.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was shot by Skeleton
+[20Dec2024 03:56:57.083] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 03:57:41.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 moved wrongly!
+[20Dec2024 03:58:18.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ice Dragon
+[20Dec2024 03:58:18.281] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[20Dec2024 03:58:52.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Chain Death]
+[20Dec2024 03:58:52.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ice Dragon
+[20Dec2024 03:58:52.840] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[20Dec2024 03:59:14.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was frozen by Ice Dragon
+[20Dec2024 03:59:14.295] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[20Dec2024 03:59:31.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ice Dragon
+[20Dec2024 03:59:31.899] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[20Dec2024 03:59:41.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Zombie
+[20Dec2024 03:59:41.117] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 04:01:23.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Tools of the Trade]
+[20Dec2024 04:02:07.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has completed the challenge [Cannibal]
+[20Dec2024 04:02:48.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Sweet Dreams]
+[20Dec2024 04:03:40.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 burned to death
+[20Dec2024 04:03:40.976] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 04:03:57.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Hot Stuff]
+[20Dec2024 04:04:01.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has reached the goal [Chain Death]
+[20Dec2024 04:04:01.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 tried to swim in lava
+[20Dec2024 04:04:01.626] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 04:05:12.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [A True Source of Evil]
+[20Dec2024 04:06:21.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Celes (vehicle of Juan123) moved wrongly! 0.30004599415519806
+[20Dec2024 04:06:21.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Celes (vehicle of Juan123) moved wrongly! 0.619093045248519
+[20Dec2024 04:06:21.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Celes (vehicle of Juan123) moved wrongly! 0.9408550108023112
+[20Dec2024 04:06:21.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Celes (vehicle of Juan123) moved wrongly! 1.2930024362488355
+[20Dec2024 04:06:21.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Celes (vehicle of Juan123) moved wrongly! 1.677288107865432
+[20Dec2024 04:06:21.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Celes (vehicle of Juan123) moved wrongly! 2.0761329695393753
+[20Dec2024 04:06:42.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ForgeChocobo['Celes'/125914, l='ServerLevel[world]', x=-1447.69, y=71.00, z=4013.04] died: Celes was slain by Juan123
+[20Dec2024 04:08:10.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 fell from a high place
+[20Dec2024 04:08:10.931] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 04:08:22.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to xentros10000]
+[20Dec2024 04:10:08.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Convergent Evolution...]
+[20Dec2024 04:10:48.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Ambush]
+[20Dec2024 04:11:25.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to xentros10000]

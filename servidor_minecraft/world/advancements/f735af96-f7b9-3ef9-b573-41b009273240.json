@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-20 03:55:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 02:39:30 +0000"
@@ -113,6 +119,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-20 03:52:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-20 02:33:16 +0000"
@@ -152,6 +164,30 @@
   "occultism:recipes/crushing/crushing/copper_dust_from_raw": {
     "criteria": {
       "has_raw_copper": "2024-12-20 02:24:29 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2024-12-20 04:05:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-20 03:55:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-20 03:52:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-20 03:52:37 +0000"
     },
     "done": true
   },
@@ -227,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:52:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 03:08:02 +0000"
@@ -266,6 +308,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-20 02:05:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-20 03:55:46 +0000"
     },
     "done": true
   },
@@ -474,6 +522,7 @@
       "minecraft:skeleton": "2024-12-20 02:08:16 +0000",
       "minecraft:spider": "2024-12-20 02:19:08 +0000",
       "minecraft:creeper": "2024-12-20 03:49:44 +0000",
+      "minecraft:cave_spider": "2024-12-20 04:00:40 +0000",
       "minecraft:zombie": "2024-12-20 02:19:37 +0000"
     },
     "done": false
@@ -499,6 +548,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-20 02:47:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-20 03:55:46 +0000"
     },
     "done": true
   },
@@ -664,9 +719,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-20 03:55:46 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2024-12-20 02:50:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-20 03:55:46 +0000"
     },
     "done": true
   },
@@ -808,6 +875,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-20 03:55:46 +0000"
+    },
+    "done": true
+  },
   "vinery:main/fruits_of_the_field": {
     "criteria": {
       "fruits_of_the_field": "2024-12-20 02:09:54 +0000"
@@ -868,6 +941,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-20 03:52:37 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:24:36 +0000"
@@ -889,6 +968,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 02:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-20 04:03:57 +0000"
     },
     "done": true
   },
@@ -934,6 +1019,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-20 03:52:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-20 02:25:43 +0000"
@@ -949,6 +1040,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-12-20 02:33:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-20 03:52:37 +0000"
     },
     "done": true
   },
@@ -997,6 +1094,12 @@
   "securitycraft:recipes/misc/keycard_lv2": {
     "criteria": {
       "has_iron": "2024-12-20 02:20:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-20 03:55:46 +0000"
     },
     "done": true
   },
@@ -1198,6 +1301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:52:37 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/campfire": {
     "criteria": {
       "has_stick": "2024-12-20 02:05:45 +0000",
@@ -1282,6 +1391,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-20 03:55:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-20 03:03:17 +0000"
@@ -1312,6 +1427,12 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/otherstone": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:52:37 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
     "criteria": {
       "has_raw_silver": "2024-12-20 02:25:17 +0000"
@@ -1339,6 +1460,18 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-20 02:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-20 03:56:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-20 03:52:37 +0000"
     },
     "done": true
   },
@@ -1375,6 +1508,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-20 02:59:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-20 03:52:37 +0000"
     },
     "done": true
   },
@@ -1441,6 +1580,12 @@
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-20 02:02:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-20 03:52:37 +0000"
     },
     "done": true
   },
@@ -1553,6 +1698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:52:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-20 03:41:02 +0000"
@@ -1562,6 +1713,12 @@
   "securitycraft:recipes/misc/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2024-12-20 02:05:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-20 03:52:37 +0000"
     },
     "done": true
   },
@@ -1733,6 +1890,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-20 03:52:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2024-12-20 02:20:49 +0000"
@@ -1805,6 +1968,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-20 03:55:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 02:20:49 +0000"
@@ -1832,6 +2001,12 @@
   "aquaculture:recipes/aquaculture/worm_farm": {
     "criteria": {
       "has_items": "2024-12-20 02:02:16 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-20 03:55:14 +0000"
     },
     "done": true
   },
@@ -1922,6 +2097,12 @@
   "occultism:recipes/misc/crafting/raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2024-12-20 02:25:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-20 03:55:46 +0000"
     },
     "done": true
   },
@@ -2219,6 +2400,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-12-20 04:01:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 03:08:02 +0000"
@@ -2273,6 +2460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:52:37 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:24:36 +0000"
@@ -2309,6 +2502,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-20 03:55:46 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:24:36 +0000"
@@ -2318,6 +2517,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 02:39:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-20 03:52:37 +0000"
     },
     "done": true
   },
@@ -2333,6 +2538,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-20 03:52:37 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/spruce_fish_mount": {
     "criteria": {
       "has_items": "2024-12-20 02:02:16 +0000"
@@ -2342,6 +2553,12 @@
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2024-12-20 03:51:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:52:37 +0000"
     },
     "done": true
   },
@@ -2375,6 +2592,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-20 03:55:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-20 03:46:20 +0000"
@@ -2390,6 +2613,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-20 02:19:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-20 03:55:46 +0000"
     },
     "done": true
   },
@@ -2462,6 +2691,12 @@
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2024-12-20 02:52:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 04:04:01 +0000"
     },
     "done": true
   },
@@ -2549,6 +2784,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-20 03:55:46 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/fishing_line": {
     "criteria": {
       "has_items": "2024-12-20 02:02:16 +0000"
@@ -2570,6 +2811,12 @@
   "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
     "criteria": {
       "has_items": "2024-12-20 02:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:52:37 +0000"
     },
     "done": true
   },
@@ -2669,6 +2916,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-20 03:56:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 02:20:49 +0000"
@@ -2699,6 +2952,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-20 03:52:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_cherry_fence": {
     "criteria": {
       "has_stick": "2024-12-20 02:05:45 +0000"
@@ -2711,6 +2970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:52:37 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/diamond_dust_from_gem": {
     "criteria": {
       "has_diamond_gem": "2024-12-20 02:42:45 +0000"
@@ -2720,6 +2985,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 02:20:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-20 03:52:37 +0000"
     },
     "done": true
   },
@@ -2874,6 +3145,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-20 03:52:37 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
     "criteria": {
       "has_items": "2024-12-20 02:02:16 +0000"
@@ -2952,6 +3229,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-20 03:52:37 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/wooden_brewingstation": {
     "criteria": {
       "has_furnace": "2024-12-20 02:20:30 +0000"
@@ -2976,6 +3259,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-20 03:52:37 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/cooked_fish_fillet": {
     "criteria": {
       "has_items": "2024-12-20 02:02:16 +0000"
@@ -2994,9 +3283,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-20 03:52:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2024-12-20 02:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:52:37 +0000"
     },
     "done": true
   },
@@ -3009,6 +3310,12 @@
   "brewery:main/root": {
     "criteria": {
       "seeds": "2024-12-20 02:02:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-20 03:55:46 +0000"
     },
     "done": true
   },
@@ -3039,6 +3346,12 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2024-12-20 03:23:18 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-20 03:55:24 +0000"
     },
     "done": true
   },
@@ -3093,6 +3406,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2024-12-20 02:33:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-20 03:55:46 +0000"
     },
     "done": true
   },
@@ -3236,6 +3555,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:52:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-20 02:06:43 +0000"
@@ -3285,6 +3616,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-20 04:01:26 +0000"
+    },
+    "done": true
+  },
   "occultism:occultism/root": {
     "criteria": {
       "occultism_present": "2024-12-20 02:02:18 +0000"
@@ -3294,6 +3631,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-20 03:49:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-20 03:55:46 +0000"
     },
     "done": true
   },
@@ -3427,6 +3770,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-20 02:24:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-20 03:55:46 +0000"
     },
     "done": true
   },
