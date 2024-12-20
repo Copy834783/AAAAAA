@@ -654,3 +654,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [20Dec2024 02:50:06.874] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Natalia'/44213, l='ServerLevel[world]', x=-758.99, y=102.00, z=2255.11] died: Natalia was energized by Lightning Dragon
 [20Dec2024 02:50:10.102] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tamara'/44212, l='ServerLevel[world]', x=-745.84, y=97.00, z=2257.33] died, message: 'Tamara hit the ground too hard whilst trying to escape Lightning Dragon'
 [20Dec2024 02:50:10.104] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tamara'/44212, l='ServerLevel[world]', x=-745.84, y=97.00, z=2257.33] died: Tamara hit the ground too hard whilst trying to escape Lightning Dragon
+[20Dec2024 02:51:29.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Alex's Caves]
+[20Dec2024 02:51:37.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Ashes 'n Bones]
+[20Dec2024 02:52:34.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [It Belongs in a Museum]
+[20Dec2024 02:52:38.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Once Upon a Cave]
+[20Dec2024 02:52:40.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Hunt and Gather]
+[20Dec2024 02:54:57.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to Juan123]
+[20Dec2024 02:55:46.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Suit Up]
+[20Dec2024 02:57:03.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Rhinoceros
+[20Dec2024 02:57:03.318] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[20Dec2024 03:02:08.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to xentros10000]
+[20Dec2024 03:03:17.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Ice Bucket Challenge]
+[20Dec2024 03:04:20.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Ashes 'n Bones]
+[20Dec2024 03:05:13.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [We do a little trolling...]
+[20Dec2024 03:08:39.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to Juan123]
