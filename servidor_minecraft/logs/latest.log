@@ -636,3 +636,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [20Dec2024 02:37:09.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Acquire Hardware]
 [20Dec2024 02:40:07.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was turned into KFC by Fire Dragon
 [20Dec2024 02:40:08.019] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[20Dec2024 02:41:16.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was turned into KFC by Fire Dragon
+[20Dec2024 02:41:17.008] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[20Dec2024 02:42:11.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Made xentros10000 a server operator]
+[20Dec2024 02:42:45.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Diamonds!]
+[20Dec2024 02:43:07.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Isn't It Iron Pick]
+[20Dec2024 02:43:16.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Sweet Dreams]
+[20Dec2024 02:44:54.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was blown up by Creeper
+[20Dec2024 02:44:55.007] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[20Dec2024 02:45:28.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Amateur Archaeologist]
+[20Dec2024 02:45:39.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Suit Up]
+[20Dec2024 02:47:47.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [A Strange Grave Dust]
+[20Dec2024 02:49:53.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Skeleton
+[20Dec2024 02:49:53.992] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 02:50:03.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has reached the goal [Here They Come]
+[20Dec2024 02:50:06.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Natalia'/44213, l='ServerLevel[world]', x=-758.99, y=102.00, z=2255.11] died, message: 'Natalia was energized by Lightning Dragon'
+[20Dec2024 02:50:06.874] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Natalia'/44213, l='ServerLevel[world]', x=-758.99, y=102.00, z=2255.11] died: Natalia was energized by Lightning Dragon
+[20Dec2024 02:50:10.102] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tamara'/44212, l='ServerLevel[world]', x=-745.84, y=97.00, z=2257.33] died, message: 'Tamara hit the ground too hard whilst trying to escape Lightning Dragon'
+[20Dec2024 02:50:10.104] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tamara'/44212, l='ServerLevel[world]', x=-745.84, y=97.00, z=2257.33] died: Tamara hit the ground too hard whilst trying to escape Lightning Dragon
