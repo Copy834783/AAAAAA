@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "brewery:recipes/sausage": {
+    "criteria": {
+      "has_cooked_beef": "2024-12-20 04:37:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2024-12-20 03:21:09 +0000"
@@ -242,6 +248,12 @@
   "vinery:recipes/spruce_wine_rack_big": {
     "criteria": {
       "has_spruce_planks": "2024-12-20 03:52:05 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2024-12-20 04:32:11 +0000"
     },
     "done": true
   },
@@ -710,6 +722,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2024-12-20 02:18:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-20 04:32:11 +0000"
     },
     "done": true
   },
@@ -1208,6 +1226,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-20 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2024-12-20 04:41:09 +0000"
     },
     "done": true
   },
@@ -3084,8 +3108,10 @@
       "minecraft:sparse_jungle": "2024-12-20 02:34:52 +0000",
       "minecraft:lukewarm_ocean": "2024-12-20 02:08:56 +0000",
       "minecraft:river": "2024-12-20 02:14:33 +0000",
+      "minecraft:dripstone_caves": "2024-12-20 04:28:00 +0000",
       "minecraft:swamp": "2024-12-20 03:38:54 +0000",
       "minecraft:forest": "2024-12-20 02:14:06 +0000",
+      "minecraft:lush_caves": "2024-12-20 04:33:38 +0000",
       "minecraft:jungle": "2024-12-20 02:04:36 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 03:38:34 +0000",
       "minecraft:deep_dark": "2024-12-20 03:30:16 +0000",

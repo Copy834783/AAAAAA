@@ -963,3 +963,34 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [20Dec2024 04:17:32.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [No Longer Short-Staffed]
 [20Dec2024 04:18:54.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1354.500000, 80.500000, 4280.500000]
 [20Dec2024 04:20:41.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to xentros10000]
+[20Dec2024 04:23:03.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Juan123 using [Rapier]
+[20Dec2024 04:23:03.266] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 04:24:12.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [No Longer Short-Staffed]
+[20Dec2024 04:24:48.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Enderman
+[20Dec2024 04:24:48.360] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[20Dec2024 04:26:52.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1339.500000, 117.500000, 4631.500000]
+[20Dec2024 04:27:14.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was blown up by Creeper
+[20Dec2024 04:27:14.089] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 04:28:24.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1561.500000, 81.500000, 4712.500000]
+[20Dec2024 04:29:05.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to Juan123]
+[20Dec2024 04:29:39.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> xaero-waypoint:casa:C:-997:68:3542:14:false:0:Internal-overworld-waypoints
+[20Dec2024 04:29:56.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Juan123
+[20Dec2024 04:29:56.060] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 04:29:56.099] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 7 in "main" inventory handler
+[20Dec2024 04:32:11.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Forbidden Fruit]
+[20Dec2024 04:32:17.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[20Dec2024 04:32:44.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to Juan123]
+[20Dec2024 04:34:25.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Skeleton
+[20Dec2024 04:34:25.573] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[20Dec2024 04:36:07.954] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Albertas'/153805, l='ServerLevel[world]', x=-1958.10, y=73.00, z=4511.62] died, message: 'Albertas was turned to ice by Ice Dragon'
+[20Dec2024 04:38:49.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Ice Dragon
+[20Dec2024 04:38:49.527] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 04:39:08.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was turned to ice by Ice Dragon
+[20Dec2024 04:39:08.973] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 04:39:09.798] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Genė'/153229, l='ServerLevel[world]', x=-1958.15, y=74.50, z=4512.45] died, message: 'Genė was pricked to death'
+[20Dec2024 04:39:09.801] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Genė'/153229, l='ServerLevel[world]', x=-1958.15, y=74.50, z=4512.45] died: Genė was pricked to death
+[20Dec2024 04:39:29.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to Juan123]
+[20Dec2024 04:40:07.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Dragonslayer]
+[20Dec2024 04:41:09.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Chompy]
+[20Dec2024 04:41:45.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1945.500000, 88.500000, 4522.500000]
+[20Dec2024 04:42:25.004] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Valė'/153629, l='ServerLevel[world]', x=-1914.45, y=90.18, z=4575.19] died, message: 'Valė was slain by Zombie'
