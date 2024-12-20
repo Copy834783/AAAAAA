@@ -629,3 +629,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [20Dec2024 02:26:38.941] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=199, y=-59, z=128}
 [20Dec2024 02:27:52.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 burned to death
 [20Dec2024 02:27:52.977] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[20Dec2024 02:31:33.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [We do a little trolling...]
+[20Dec2024 02:36:24.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [It Belongs in a Museum]
+[20Dec2024 02:36:31.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Tools of the Trade]
+[20Dec2024 02:36:41.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Diamonds!]
+[20Dec2024 02:37:09.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Acquire Hardware]
+[20Dec2024 02:40:07.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was turned into KFC by Fire Dragon
+[20Dec2024 02:40:08.019] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
