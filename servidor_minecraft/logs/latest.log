@@ -1570,3 +1570,31 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [29Dec2024 05:15:31.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4738.500000, 69.500000, 6622.500000]
 [29Dec2024 05:15:51.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4792.500000, 106.500000, 6701.500000]
 [29Dec2024 05:16:19.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4781.500000, 101.500000, 6771.500000]
+[29Dec2024 05:17:14.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4925.500000, 57.500000, 6836.500000]
+[29Dec2024 05:17:22.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4906.500000, 65.500000, 6910.500000]
+[29Dec2024 05:17:40.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4953.500000, 68.500000, 6978.500000]
+[29Dec2024 05:17:57.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4938.500000, 76.500000, 7113.500000]
+[29Dec2024 05:18:46.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4970.500000, 67.500000, 7254.500000]
+[29Dec2024 05:18:57.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -5023.500000, 76.500000, 7322.500000]
+[29Dec2024 05:19:51.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -5096.500000, 84.500000, 7340.500000]
+[29Dec2024 05:20:15.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -5226.500000, 78.500000, 7429.500000]
+[29Dec2024 05:21:46.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -5335.500000, 80.500000, 7555.500000]
+[29Dec2024 05:25:30.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -5268.500000, 70.500000, 7743.500000]
+[29Dec2024 05:26:09.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -5164.500000, 64.500000, 7854.500000]
+[29Dec2024 05:26:30.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -5123.500000, 67.500000, 7993.500000]
+[29Dec2024 05:26:40.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -5049.500000, 71.500000, 8073.500000]
+[29Dec2024 05:26:50.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -5003.500000, 63.500000, 7986.500000]
+[29Dec2024 05:27:06.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4885.500000, 105.500000, 8106.500000]
+[29Dec2024 05:27:11.130] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 05:27:11.131] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 05:29:43.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4762.500000, 86.500000, 8191.500000]
+[29Dec2024 05:30:11.070] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-308, 524], pos: MutableBlockPos{x=-4928, y=-14, z=8397}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[29Dec2024 05:30:48.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4715.500000, 84.500000, 8303.500000]
+[29Dec2024 05:32:17.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4565.500000, 65.500000, 8439.500000]
+[29Dec2024 05:32:32.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4528.500000, 63.500000, 8452.500000]
+[29Dec2024 05:33:11.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4370.500000, 83.500000, 8417.500000]
+[29Dec2024 05:33:18.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4387.500000, 79.500000, 8377.500000]
+[29Dec2024 05:33:52.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4314.500000, 87.500000, 8356.500000]
+[29Dec2024 05:34:45.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
+[29Dec2024 05:34:45.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[29Dec2024 05:34:45.853] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
