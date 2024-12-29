@@ -1495,3 +1495,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [29Dec2024 03:44:59.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [The Parrots and the Bats]
 [29Dec2024 03:52:30.562] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@452e9de0[id=<null>,name=DarkoAmerica123,properties={},legacy=false] (/100.72.130.124:49727) lost connection: Disconnected
 [29Dec2024 04:05:30.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2999, y=65, z=5962} BlockPos{x=-2999, y=65, z=5961}
+[29Dec2024 04:07:29.160] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d8c961b[id=<null>,name=DarkoAmerica123,properties={},legacy=false] (/100.72.130.124:49912) lost connection: Disconnected
+[29Dec2024 04:08:04.959] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1aa1e6a2[id=<null>,name=DarkoAmerica123,properties={},legacy=false] (/100.72.130.124:49918): Took too long to log in
+[29Dec2024 04:08:04.961] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1aa1e6a2[id=<null>,name=DarkoAmerica123,properties={},legacy=false] (/100.72.130.124:49918) lost connection: Took too long to log in
+[29Dec2024 04:08:05.011] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Dec2024 04:09:48.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkoAmerica123[/100.72.130.124:49946] logged in with entity id 46317 at (-105.5, 75.0, -1.5)
+[29Dec2024 04:09:48.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkoAmerica123 joined the game
+[29Dec2024 04:09:48.474] [Server thread/INFO] [Jade/]: Syncing config to DarkoAmerica123 (28d43af0-d6bd-338d-a18f-8ba10e1f51ab)
+[29Dec2024 04:09:48.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkoAmerica123 has made the advancement [Christmas]
+[29Dec2024 04:09:48.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkoAmerica123 has made the advancement [Ice and Fire]
+[29Dec2024 04:10:18.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkoAmerica123 lost connection: Timed out
+[29Dec2024 04:10:18.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkoAmerica123 left the game
+[29Dec2024 04:11:31.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 1000]
+[29Dec2024 04:14:04.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkoAmerica123[/100.72.130.124:49974] logged in with entity id 48850 at (-105.5, 75.0, -1.5)
+[29Dec2024 04:14:04.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkoAmerica123 joined the game
+[29Dec2024 04:14:04.371] [Server thread/INFO] [Jade/]: Syncing config to DarkoAmerica123 (28d43af0-d6bd-338d-a18f-8ba10e1f51ab)
+[29Dec2024 04:15:34.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkoAmerica123 lost connection: Timed out
+[29Dec2024 04:15:34.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkoAmerica123 left the game

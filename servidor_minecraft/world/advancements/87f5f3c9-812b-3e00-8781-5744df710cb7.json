@@ -2986,7 +2986,8 @@
   },
   "brewery:main/wild_crops": {
     "criteria": {
-      "hops": "2024-12-20 03:40:50 +0000"
+      "hops": "2024-12-20 03:40:50 +0000",
+      "hops_seeds": "2024-12-29 04:12:08 +0000"
     },
     "done": false
   },
@@ -3683,6 +3684,12 @@
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2024-12-29 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/otherworld_essence": {
+    "criteria": {
+      "has_demons_dream_essence": "2024-12-29 04:08:52 +0000"
     },
     "done": true
   },
