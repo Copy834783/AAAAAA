@@ -1524,3 +1524,49 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [29Dec2024 04:23:15.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3248.500000, 68.500000, 6306.500000]
 [29Dec2024 04:23:40.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 1000]
 [29Dec2024 04:26:25.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3282.500000, 88.500000, 6423.500000]
+[29Dec2024 04:38:01.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [What a Deal!]
+[29Dec2024 04:40:03.005] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Anka'/56619, l='ServerLevel[world]', x=-3176.17, y=82.41, z=6541.23] died, message: 'Anka was slain by Fire Dragon'
+[29Dec2024 04:48:49.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3321.500000, 113.500000, 6694.500000]
+[29Dec2024 04:49:01.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3335.500000, 102.500000, 6778.500000]
+[29Dec2024 04:49:26.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3413.500000, 64.500000, 6916.500000]
+[29Dec2024 04:49:36.625] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 04:49:36.626] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 04:50:06.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3590.500000, 82.500000, 6848.500000]
+[29Dec2024 04:50:07.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Fruits of the Field]
+[29Dec2024 04:50:43.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3775.500000, 68.500000, 6821.500000]
+[29Dec2024 04:51:01.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3765.500000, 81.500000, 6824.500000]
+[29Dec2024 04:51:05.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3761.500000, 89.500000, 6821.500000]
+[29Dec2024 04:55:56.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3783.500000, 68.500000, 6806.500000]
+[29Dec2024 04:57:24.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3725.500000, 17.500000, 6715.500000]
+[29Dec2024 04:57:42.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3950.500000, 65.500000, 6793.500000]
+[29Dec2024 04:57:55.845] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-255, 432], pos: MutableBlockPos{x=-4077, y=-4, z=6912}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[29Dec2024 04:59:13.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4057.500000, 70.500000, 6786.500000]
+[29Dec2024 04:59:39.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4008.500000, 92.500000, 6845.500000]
+[29Dec2024 04:59:44.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4006.500000, 118.500000, 6853.500000]
+[29Dec2024 04:59:55.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4006.500000, 122.500000, 6898.500000]
+[29Dec2024 05:00:23.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4148.500000, 65.500000, 7056.500000]
+[29Dec2024 05:00:36.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4185.500000, 95.500000, 7125.500000]
+[29Dec2024 05:01:51.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Strong or Careful]
+[29Dec2024 05:01:51.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was shot by Summoned Skeleton
+[29Dec2024 05:01:51.665] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[29Dec2024 05:03:00.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pierced by Necromancer's icicle
+[29Dec2024 05:03:00.738] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[29Dec2024 05:03:42.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pierced by Necromancer's icicle
+[29Dec2024 05:03:42.745] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[29Dec2024 05:05:05.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Ol' Betsy]
+[29Dec2024 05:06:47.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [The Cutest Predator]
+[29Dec2024 05:08:54.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4307.500000, 122.500000, 7300.500000]
+[29Dec2024 05:09:18.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4040.500000, 90.500000, 6964.500000]
+[29Dec2024 05:09:29.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4043.500000, 69.500000, 6888.500000]
+[29Dec2024 05:09:34.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4117.500000, 64.500000, 6887.500000]
+[29Dec2024 05:09:47.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4131.500000, 77.500000, 6752.500000]
+[29Dec2024 05:10:04.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4114.500000, 83.500000, 6692.500000]
+[29Dec2024 05:11:05.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [A True Source of Evil]
+[29Dec2024 05:13:31.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4196.500000, 65.500000, 6529.500000]
+[29Dec2024 05:13:52.274] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-270, 397], pos: MutableBlockPos{x=-4320, y=-2, z=6359}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[29Dec2024 05:14:02.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4323.500000, 65.500000, 6387.500000]
+[29Dec2024 05:15:06.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4580.500000, 71.500000, 6505.500000]
+[29Dec2024 05:15:17.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4654.500000, 63.500000, 6546.500000]
+[29Dec2024 05:15:31.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4738.500000, 69.500000, 6622.500000]
+[29Dec2024 05:15:51.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4792.500000, 106.500000, 6701.500000]
+[29Dec2024 05:16:19.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4781.500000, 101.500000, 6771.500000]
