@@ -1494,3 +1494,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [29Dec2024 03:42:56.612] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [29Dec2024 03:44:59.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [The Parrots and the Bats]
 [29Dec2024 03:52:30.562] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@452e9de0[id=<null>,name=DarkoAmerica123,properties={},legacy=false] (/100.72.130.124:49727) lost connection: Disconnected
+[29Dec2024 04:05:30.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2999, y=65, z=5962} BlockPos{x=-2999, y=65, z=5961}
