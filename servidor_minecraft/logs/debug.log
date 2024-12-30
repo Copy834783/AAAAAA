@@ -8585,3 +8585,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 04:09:16.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -965.500000, 83.500000, 3426.500000]
 [30Dec2024 04:11:10.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1044.500000, 74.500000, 3372.500000]
 [30Dec2024 04:12:29.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1007.500000, 69.500000, 3531.500000]
+[30Dec2024 04:13:41.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 04:13:41.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 04:18:22.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [First Age]
+[30Dec2024 04:18:41.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 04:18:41.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 04:23:41.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 04:23:41.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

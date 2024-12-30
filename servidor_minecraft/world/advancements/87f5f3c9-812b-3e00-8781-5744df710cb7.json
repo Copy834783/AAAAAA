@@ -4368,6 +4368,12 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
+    "criteria": {
+      "has_feather": "2024-12-30 04:09:27 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/chalk_white": {
     "criteria": {
       "has_chalk_white_impure": "2024-12-30 03:48:31 +0000"
@@ -4471,6 +4477,12 @@
   "occultism:recipes/misc/crafting/spirit_campfire": {
     "criteria": {
       "has_datura": "2024-12-30 03:24:18 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/gold_ingot_from_dust": {
+    "criteria": {
+      "has_gold_dust": "2024-12-30 04:16:38 +0000"
     },
     "done": true
   },
@@ -4612,6 +4624,12 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/chalk_gold": {
+    "criteria": {
+      "has_chalk_gold_impure": "2024-12-30 04:17:48 +0000"
+    },
+    "done": true
+  },
   "evilcraft:first_age": {
     "criteria": {
       "criteria_0": "2024-12-30 04:04:17 +0000"
@@ -4708,6 +4726,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/book_of_calling_foliot_cleaner": {
+    "criteria": {
+      "has_book_of_binding_bound_foliot": "2024-12-30 04:13:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-30 03:00:47 +0000"
@@ -4732,6 +4756,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/blasting/gold_ingot_from_dust": {
+    "criteria": {
+      "has_gold_dust": "2024-12-30 04:16:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_gray_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-30 04:07:25 +0000"
@@ -4747,6 +4777,12 @@
   "occultism:recipes/decorations/crafting/spirit_torch": {
     "criteria": {
       "has_datura": "2024-12-30 03:24:18 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_foliot_from_empty": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 04:13:06 +0000"
     },
     "done": true
   },
@@ -4829,6 +4865,12 @@
   "occultism:recipes/spirit_fire/spirit_fire/purified_ink": {
     "criteria": {
       "has_black_dye": "2024-12-30 03:58:34 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_calling_foliot_lumberjack": {
+    "criteria": {
+      "has_book_of_binding_bound_foliot": "2024-12-30 04:13:12 +0000"
     },
     "done": true
   },
@@ -4916,6 +4958,12 @@
     },
     "done": true
   },
+  "occultism:occultism/summon_foliot_crusher": {
+    "criteria": {
+      "summon_foliot_crusher": "2024-12-30 04:14:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 03:40:41 +0000"
@@ -4997,6 +5045,12 @@
   "occultism:recipes/misc/crafting/book_of_binding_empty": {
     "criteria": {
       "has_taboo_book": "2024-12-30 03:34:02 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_calling_foliot_transport_items": {
+    "criteria": {
+      "has_book_of_binding_bound_foliot": "2024-12-30 04:13:12 +0000"
     },
     "done": true
   },
