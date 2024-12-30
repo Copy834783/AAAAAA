@@ -455,3 +455,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 01:50:14.375] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Albin'/17055, l='ServerLevel[world]', x=-4144.31, y=89.50, z=8488.77] died: Albin was pricked to death
 [30Dec2024 01:50:56.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ice Dragon
 [30Dec2024 01:50:56.838] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 01:52:08.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marga'/17056, l='ServerLevel[world]', x=-4143.00, y=88.00, z=8486.54] died, message: 'Marga was frozen by Ice Dragon'
+[30Dec2024 01:52:08.874] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Marga'/17056, l='ServerLevel[world]', x=-4143.00, y=88.00, z=8486.54] died: Marga was turned to ice by Ice Dragon
+[30Dec2024 01:53:07.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4184.500000, 86.500000, 8341.500000]
+[30Dec2024 01:53:39.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4311.500000, 69.500000, 8330.500000]
+[30Dec2024 01:54:03.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3947.500000, 142.500000, 8771.500000]
+[30Dec2024 01:56:39.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Book of Monsters]
+[30Dec2024 01:57:21.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4104.500000, 84.500000, 8648.500000]
+[30Dec2024 01:57:47.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4103.500000, 89.500000, 8751.500000]
+[30Dec2024 01:57:59.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3975.500000, 141.500000, 8876.500000]
+[30Dec2024 01:58:09.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3686.500000, 133.500000, 8747.500000]
+[30Dec2024 01:58:16.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3694.500000, 112.500000, 8764.500000]
+[30Dec2024 01:58:43.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3689.500000, 78.500000, 8939.500000]
