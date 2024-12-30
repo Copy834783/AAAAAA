@@ -955,9 +955,11 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-20 02:08:16 +0000",
       "minecraft:ghast": "2024-12-30 02:27:20 +0000",
+      "minecraft:hoglin": "2024-12-30 02:30:03 +0000",
       "minecraft:spider": "2024-12-20 02:19:08 +0000",
       "minecraft:creeper": "2024-12-20 03:49:44 +0000",
       "minecraft:cave_spider": "2024-12-20 04:00:40 +0000",
+      "minecraft:piglin": "2024-12-30 02:36:12 +0000",
       "minecraft:enderman": "2024-12-20 04:24:55 +0000",
       "minecraft:zombie": "2024-12-20 02:19:37 +0000"
     },
@@ -1061,6 +1063,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-30 02:35:01 +0000",
       "bread": "2024-12-20 02:18:55 +0000",
       "carrot": "2024-12-20 02:13:27 +0000"
     },
@@ -4344,8 +4347,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-30 02:29:35 +0000",
       "minecraft:nether_wastes": "2024-12-30 02:26:38 +0000",
-      "minecraft:soul_sand_valley": "2024-12-30 02:27:14 +0000"
+      "minecraft:soul_sand_valley": "2024-12-30 02:27:14 +0000",
+      "minecraft:basalt_deltas": "2024-12-30 02:28:42 +0000"
     },
     "done": false
   },
@@ -4355,9 +4360,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-30 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-30 02:30:05 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-30 02:10:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-30 02:31:01 +0000"
     },
     "done": true
   },
@@ -4370,6 +4393,30 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-30 02:26:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-30 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-30 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-30 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2024-12-30 02:33:53 +0000"
     },
     "done": true
   },

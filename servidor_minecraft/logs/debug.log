@@ -8662,3 +8662,48 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 02:30:44.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Nightmare Fuel]
 [30Dec2024 02:31:01.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Nightmare Fuel]
 [30Dec2024 02:32:04.380] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[30Dec2024 02:33:08.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 02:33:08.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 02:33:19.034] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[30Dec2024 02:33:46.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 90.500000, 80.500000, 102.500000]
+[30Dec2024 02:33:46.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [A Terrible Fortress]
+[30Dec2024 02:33:51.834] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[30Dec2024 02:34:29.883] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[30Dec2024 02:34:53.736] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[30Dec2024 02:34:55.441] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[30Dec2024 02:35:26.812] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[30Dec2024 02:35:33.192] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[30Dec2024 02:35:37.281] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[30Dec2024 02:35:40.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[30Dec2024 02:35:45.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[30Dec2024 02:35:57.443] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[30Dec2024 02:36:01.985] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[30Dec2024 02:36:03.938] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[30Dec2024 02:36:38.780] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[30Dec2024 02:36:55.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 tried to swim in lava
+[30Dec2024 02:36:55.038] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-44, y:32, z:56, dim:minecraft:the_nether]
+[30Dec2024 02:36:55.040] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 02:37:14.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Wither Skeleton
+[30Dec2024 02:37:14.432] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:111, y:75, z:36, dim:minecraft:the_nether]
+[30Dec2024 02:37:14.443] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 02:38:02.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 tried to swim in lava
+[30Dec2024 02:38:02.939] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:36, y:32, z:-93, dim:minecraft:the_nether]
+[30Dec2024 02:38:02.941] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 02:38:08.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 02:38:09.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 02:38:11.158] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[30Dec2024 02:38:29.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 tried to swim in lava
+[30Dec2024 02:38:29.986] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:42, y:39, z:-78, dim:minecraft:the_nether]
+[30Dec2024 02:38:29.991] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 02:39:14.789] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[30Dec2024 02:39:36.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 75.500000, 45.500000, 78.500000]
+[30Dec2024 02:39:42.036] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[30Dec2024 02:40:20.038] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[30Dec2024 02:40:43.186] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[30Dec2024 02:40:55.377] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[30Dec2024 02:41:59.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 36.500000, 46.500000, -0.500000]
+[30Dec2024 02:42:04.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Juan123
+[30Dec2024 02:42:04.793] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:38, y:46, z:-1, dim:minecraft:the_nether]
+[30Dec2024 02:42:04.794] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 02:42:06.579] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[30Dec2024 02:42:49.557] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:ice_block 1: [545b3d42-d1c7-4850-b342-5d08167607fd]

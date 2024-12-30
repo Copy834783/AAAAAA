@@ -517,3 +517,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 02:29:35.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to Juan123]
 [30Dec2024 02:30:44.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Nightmare Fuel]
 [30Dec2024 02:31:01.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Nightmare Fuel]
+[30Dec2024 02:33:46.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 90.500000, 80.500000, 102.500000]
+[30Dec2024 02:33:46.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [A Terrible Fortress]
+[30Dec2024 02:36:55.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 tried to swim in lava
+[30Dec2024 02:36:55.040] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 02:37:14.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Wither Skeleton
+[30Dec2024 02:37:14.443] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 02:38:02.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 tried to swim in lava
+[30Dec2024 02:38:02.941] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 02:38:29.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 tried to swim in lava
+[30Dec2024 02:38:29.991] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 02:39:36.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 75.500000, 45.500000, 78.500000]
+[30Dec2024 02:41:59.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 36.500000, 46.500000, -0.500000]
+[30Dec2024 02:42:04.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Juan123
+[30Dec2024 02:42:04.794] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
