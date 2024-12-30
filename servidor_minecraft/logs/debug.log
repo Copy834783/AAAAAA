@@ -8538,3 +8538,38 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 03:30:30.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Zombie
 [30Dec2024 03:30:30.869] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-994, y:68, z:3548, dim:minecraft:overworld]
 [30Dec2024 03:30:30.875] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:33:41.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:33:41.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:36:13.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Mimic
+[30Dec2024 03:36:13.223] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-989, y:-28, z:3514, dim:minecraft:overworld]
+[30Dec2024 03:36:13.227] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:37:51.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to Juan123]
+[30Dec2024 03:38:41.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Best Friends Forever]
+[30Dec2024 03:38:41.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:38:41.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:39:43.765] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:ice_block 1: [87f5f3c9-812b-3e00-8781-5744df710cb7]
+[30Dec2024 03:41:30.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Who is Cutting Onions?]
+[30Dec2024 03:41:57.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Cherry Picker]
+[30Dec2024 03:41:59.645] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:ice_block 1: [87f5f3c9-812b-3e00-8781-5744df710cb7]
+[30Dec2024 03:43:41.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:43:41.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:44:22.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Enchanter]
+[30Dec2024 03:48:41.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:48:41.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:53:02.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 1000]
+[30Dec2024 03:53:10.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 13000]
+[30Dec2024 03:53:36.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Enchanter]
+[30Dec2024 03:53:41.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:53:41.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:54:52.823] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[30Dec2024 03:54:52.824] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md89d8c1$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[30Dec2024 03:58:41.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:58:41.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:58:49.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Cherry Picker]
+[30Dec2024 03:59:21.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Stolen Magic]
+[30Dec2024 04:00:00.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Convergent Evolution...]
+[30Dec2024 04:01:29.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was blown up by Creeper
+[30Dec2024 04:01:29.275] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-1020, y:65, z:3635, dim:minecraft:overworld]
+[30Dec2024 04:01:29.286] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 04:02:34.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-982, y=69, z=3535} BlockPos{x=-983, y=69, z=3534}
+[30Dec2024 04:02:34.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-982, y=69, z=3535} BlockPos{x=-983, y=69, z=3534}

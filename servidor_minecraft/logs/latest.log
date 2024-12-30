@@ -488,3 +488,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 03:29:07.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Wild Harvest]
 [30Dec2024 03:30:30.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Zombie
 [30Dec2024 03:30:30.875] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:36:13.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Mimic
+[30Dec2024 03:36:13.227] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:37:51.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to Juan123]
+[30Dec2024 03:38:41.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Best Friends Forever]
+[30Dec2024 03:41:30.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Who is Cutting Onions?]
+[30Dec2024 03:41:57.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Cherry Picker]
+[30Dec2024 03:44:22.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Enchanter]
+[30Dec2024 03:53:02.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 1000]
+[30Dec2024 03:53:10.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 13000]
+[30Dec2024 03:53:36.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Enchanter]
+[30Dec2024 03:58:49.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Cherry Picker]
+[30Dec2024 03:59:21.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Stolen Magic]
+[30Dec2024 04:00:00.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Convergent Evolution...]
+[30Dec2024 04:01:29.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was blown up by Creeper
+[30Dec2024 04:01:29.286] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 04:02:34.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-982, y=69, z=3535} BlockPos{x=-983, y=69, z=3534}
+[30Dec2024 04:02:34.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-982, y=69, z=3535} BlockPos{x=-983, y=69, z=3534}
