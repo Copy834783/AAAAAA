@@ -8603,3 +8603,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 04:32:41.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1016.500000, 69.500000, 3533.500000]
 [30Dec2024 04:33:41.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 04:33:41.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 04:37:09.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -793.500000, 72.500000, 3008.500000]
+[30Dec2024 04:38:41.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 04:38:41.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 04:39:13.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1007.500000, 69.500000, 3531.500000]
+[30Dec2024 04:40:36.477] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[30Dec2024 04:40:36.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 4 [Cactus] to Juan123]
+[30Dec2024 04:41:03.723] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [f735af96-f7b9-3ef9-b573-41b009273240]
+[30Dec2024 04:41:05.021] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [f735af96-f7b9-3ef9-b573-41b009273240]
+[30Dec2024 04:41:07.714] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [f735af96-f7b9-3ef9-b573-41b009273240]
+[30Dec2024 04:41:09.796] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [f735af96-f7b9-3ef9-b573-41b009273240]
+[30Dec2024 04:41:10.787] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [f735af96-f7b9-3ef9-b573-41b009273240]
+[30Dec2024 04:41:12.102] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [f735af96-f7b9-3ef9-b573-41b009273240]
+[30Dec2024 04:41:12.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by xentros10000
+[30Dec2024 04:41:12.861] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-978, y:69, z:3533, dim:minecraft:overworld]
+[30Dec2024 04:41:12.863] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 04:41:35.347] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [f735af96-f7b9-3ef9-b573-41b009273240]
+[30Dec2024 04:43:41.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 04:43:41.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
