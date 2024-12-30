@@ -8621,3 +8621,34 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 04:41:35.347] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [f735af96-f7b9-3ef9-b573-41b009273240]
 [30Dec2024 04:43:41.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 04:43:41.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 04:44:33.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 1 [End Stone] to Juan123]
+[30Dec2024 04:48:41.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 04:48:41.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 04:48:51.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -996.500000, 68.500000, 3542.500000]
+[30Dec2024 04:52:02.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Summoned new Sheep]
+[30Dec2024 04:52:42.190] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [f735af96-f7b9-3ef9-b573-41b009273240]
+[30Dec2024 04:53:02.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Occultism: Friends]
+[30Dec2024 04:53:41.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 04:53:41.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 04:53:54.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Skeleton
+[30Dec2024 04:53:54.167] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-1096, y:67, z:3580, dim:minecraft:overworld]
+[30Dec2024 04:53:54.179] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 04:55:16.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Mount up!]
+[30Dec2024 04:58:41.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 04:58:41.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 04:58:47.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 64 [Raw Chicken] to Juan123]
+[30Dec2024 04:59:43.992] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [29bf2463-8ed2-4e42-a7af-162927159f64]
+[30Dec2024 05:00:14.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by xentros10000
+[30Dec2024 05:00:14.911] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-1008, y:68, z:3537, dim:minecraft:overworld]
+[30Dec2024 05:00:14.912] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 05:00:56.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by xentros10000
+[30Dec2024 05:00:56.003] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-987, y:68, z:3530, dim:minecraft:overworld]
+[30Dec2024 05:00:56.004] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 05:03:41.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 05:03:41.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 05:03:53.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by xentros10000
+[30Dec2024 05:03:53.403] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-999, y:68, z:3543, dim:minecraft:overworld]
+[30Dec2024 05:03:53.404] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 05:04:22.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by xentros10000
+[30Dec2024 05:04:22.347] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-1012, y:68, z:3545, dim:minecraft:overworld]
+[30Dec2024 05:04:22.348] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved

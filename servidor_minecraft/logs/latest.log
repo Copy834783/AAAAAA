@@ -525,3 +525,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 04:40:36.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 4 [Cactus] to Juan123]
 [30Dec2024 04:41:12.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by xentros10000
 [30Dec2024 04:41:12.863] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 04:44:33.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 1 [End Stone] to Juan123]
+[30Dec2024 04:48:51.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -996.500000, 68.500000, 3542.500000]
+[30Dec2024 04:52:02.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Summoned new Sheep]
+[30Dec2024 04:53:02.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Occultism: Friends]
+[30Dec2024 04:53:54.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Skeleton
+[30Dec2024 04:53:54.179] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 04:55:16.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Mount up!]
+[30Dec2024 04:58:47.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 64 [Raw Chicken] to Juan123]
+[30Dec2024 05:00:14.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by xentros10000
+[30Dec2024 05:00:14.912] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 05:00:56.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by xentros10000
+[30Dec2024 05:00:56.004] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 05:03:53.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by xentros10000
+[30Dec2024 05:03:53.404] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 05:04:22.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by xentros10000
+[30Dec2024 05:04:22.348] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved

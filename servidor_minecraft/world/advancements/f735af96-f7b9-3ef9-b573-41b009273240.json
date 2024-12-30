@@ -4599,6 +4599,13 @@
     },
     "done": true
   },
+  "vinery:main/grape_picker": {
+    "criteria": {
+      "vinery:savanna_grapes_white": "2024-12-30 04:44:51 +0000",
+      "vinery:white_grape": "2024-12-30 04:44:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-12-30 03:24:38 +0000"
@@ -4970,6 +4977,13 @@
       "has_glass": "2024-12-30 04:30:08 +0000"
     },
     "done": true
+  },
+  "vinery:main/vineyard_visionary": {
+    "criteria": {
+      "vinery:savanna_grapes_white": "2024-12-30 04:44:51 +0000",
+      "vinery:white_grape": "2024-12-30 04:44:51 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
