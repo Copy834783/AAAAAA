@@ -329,6 +329,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-30 02:12:21 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-20 03:35:28 +0000",
       "minecraft:taiga": "2024-12-29 03:43:20 +0000",
       "minecraft:eroded_badlands": "2024-12-20 02:26:17 +0000",
@@ -343,9 +344,11 @@
       "minecraft:lukewarm_ocean": "2024-12-20 02:08:56 +0000",
       "minecraft:river": "2024-12-20 02:14:33 +0000",
       "minecraft:snowy_plains": "2024-12-29 03:07:44 +0000",
+      "minecraft:stony_shore": "2024-12-30 02:16:05 +0000",
       "minecraft:dripstone_caves": "2024-12-20 04:28:00 +0000",
       "minecraft:snowy_taiga": "2024-12-29 03:11:06 +0000",
       "minecraft:swamp": "2024-12-20 03:38:54 +0000",
+      "minecraft:jagged_peaks": "2024-12-30 02:03:42 +0000",
       "minecraft:cold_ocean": "2024-12-29 03:36:44 +0000",
       "minecraft:forest": "2024-12-20 02:14:06 +0000",
       "minecraft:lush_caves": "2024-12-20 04:33:38 +0000",
@@ -353,6 +356,7 @@
       "minecraft:jungle": "2024-12-20 02:04:36 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 03:38:34 +0000",
       "minecraft:snowy_beach": "2024-12-29 03:31:45 +0000",
+      "minecraft:frozen_peaks": "2024-12-30 02:04:27 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-29 05:25:31 +0000",
       "minecraft:deep_dark": "2024-12-20 03:30:16 +0000",
       "minecraft:savanna": "2024-12-20 02:13:17 +0000",
@@ -1412,6 +1416,7 @@
       "beef": "2024-12-20 04:20:07 +0000",
       "mutton": "2024-12-20 04:18:41 +0000",
       "bread": "2024-12-20 02:20:04 +0000",
+      "golden_apple": "2024-12-30 01:59:24 +0000",
       "rotten_flesh": "2024-12-29 03:21:47 +0000"
     },
     "done": false
@@ -4112,9 +4117,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2024-12-30 02:06:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2024-12-30 02:06:29 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2024-12-30 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2024-12-30 02:06:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-30 02:06:46 +0000"
     },
     "done": true
   },
@@ -4166,6 +4195,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2024-12-30 02:06:46 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/breathalyzer": {
     "criteria": {
       "has_iron_nugget": "2024-12-30 01:30:48 +0000"
@@ -4187,6 +4222,12 @@
   "minecraft:recipes/combat/chainmail_boots": {
     "criteria": {
       "has_item": "2024-12-30 01:28:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2024-12-30 02:06:46 +0000"
     },
     "done": true
   },
