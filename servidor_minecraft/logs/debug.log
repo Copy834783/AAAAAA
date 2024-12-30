@@ -8460,3 +8460,62 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 03:12:06.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> XD
 [30Dec2024 03:12:09.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> porq no habla
 [30Dec2024 03:12:20.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 92.500000, 69.500000, 76.500000]
+[30Dec2024 03:13:07.198] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [a90ab24d-a837-44d5-9ffa-2c64a3a5072a]
+[30Dec2024 03:13:08.328] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [f976aa2e-b986-4415-90df-0e5c9edb53c2]
+[30Dec2024 03:13:08.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 withered away whilst fighting Wither Skeleton
+[30Dec2024 03:13:08.527] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:104, y:67, z:94, dim:minecraft:the_nether]
+[30Dec2024 03:13:08.534] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 03:13:18.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 withered away
+[30Dec2024 03:13:18.423] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:56, y:73, z:94, dim:minecraft:the_nether]
+[30Dec2024 03:13:18.426] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:13:41.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:13:41.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:13:43.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 85.500000, 75.500000, 102.500000]
+[30Dec2024 03:13:55.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Wither Skeleton
+[30Dec2024 03:13:55.166] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:110, y:67, z:85, dim:minecraft:the_nether]
+[30Dec2024 03:13:55.181] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:14:52.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Crimson Mosquito
+[30Dec2024 03:14:52.967] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:120, y:67, z:110, dim:minecraft:the_nether]
+[30Dec2024 03:14:52.971] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:15:23.475] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [f735af96-f7b9-3ef9-b573-41b009273240]
+[30Dec2024 03:15:40.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was burnt to a crisp whilst fighting Blaze
+[30Dec2024 03:15:40.717] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:112, y:67, z:113, dim:minecraft:the_nether]
+[30Dec2024 03:15:40.720] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 03:15:44.946] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:ice_block 1: [a2f167a8-db30-4cc0-a664-e9b5d0ad8e9b]
+[30Dec2024 03:15:50.367] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[30Dec2024 03:16:01.952] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:ice_block 1: [a90ab24d-a837-44d5-9ffa-2c64a3a5072a]
+[30Dec2024 03:16:21.304] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:ice_block 1: [a90ab24d-a837-44d5-9ffa-2c64a3a5072a]
+[30Dec2024 03:16:22.817] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[30Dec2024 03:16:24.917] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[30Dec2024 03:16:45.716] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[30Dec2024 03:16:54.633] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [f735af96-f7b9-3ef9-b573-41b009273240]
+[30Dec2024 03:17:06.980] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [f735af96-f7b9-3ef9-b573-41b009273240]
+[30Dec2024 03:17:23.963] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:ice_block 1: [6c958545-e77f-490c-9c9f-05e18d26dc2e]
+[30Dec2024 03:17:33.370] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[30Dec2024 03:17:34.519] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[30Dec2024 03:17:35.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Wither Skeleton
+[30Dec2024 03:17:35.518] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:91, y:73, z:108, dim:minecraft:the_nether]
+[30Dec2024 03:17:35.524] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 03:17:40.801] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:ice_block 1: [6c958545-e77f-490c-9c9f-05e18d26dc2e]
+[30Dec2024 03:17:45.126] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[30Dec2024 03:17:48.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Wither Skeleton
+[30Dec2024 03:17:48.421] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 03:17:49.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was burnt to a crisp whilst fighting Blaze
+[30Dec2024 03:17:49.217] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:86, y:73, z:103, dim:minecraft:the_nether]
+[30Dec2024 03:17:49.220] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:18:05.029] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[30Dec2024 03:18:16.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to xentros10000]
+[30Dec2024 03:18:19.115] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[30Dec2024 03:18:40.264] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:ice_block 1: [7fd82355-e38b-4dcf-aaeb-e0ce206410c3]
+[30Dec2024 03:18:41.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:18:41.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:18:41.972] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [f735af96-f7b9-3ef9-b573-41b009273240]
+[30Dec2024 03:18:44.661] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[30Dec2024 03:18:51.366] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[30Dec2024 03:18:53.583] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [f735af96-f7b9-3ef9-b573-41b009273240]
+[30Dec2024 03:18:53.845] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [f735af96-f7b9-3ef9-b573-41b009273240]
+[30Dec2024 03:19:39.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 burned to death
+[30Dec2024 03:19:39.921] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:117, y:47, z:74, dim:minecraft:the_nether]
+[30Dec2024 03:19:39.924] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:20:22.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -134.500000, 66.500000, 436.500000]
+[30Dec2024 03:20:23.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -132.500000, 64.500000, 441.500000]

@@ -455,3 +455,25 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 03:12:06.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> XD
 [30Dec2024 03:12:09.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> porq no habla
 [30Dec2024 03:12:20.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 92.500000, 69.500000, 76.500000]
+[30Dec2024 03:13:08.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 withered away whilst fighting Wither Skeleton
+[30Dec2024 03:13:08.534] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 03:13:18.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 withered away
+[30Dec2024 03:13:18.426] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:13:43.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 85.500000, 75.500000, 102.500000]
+[30Dec2024 03:13:55.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Wither Skeleton
+[30Dec2024 03:13:55.181] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:14:52.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Crimson Mosquito
+[30Dec2024 03:14:52.971] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:15:40.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was burnt to a crisp whilst fighting Blaze
+[30Dec2024 03:15:40.720] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 03:17:35.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Wither Skeleton
+[30Dec2024 03:17:35.524] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 03:17:48.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Wither Skeleton
+[30Dec2024 03:17:48.421] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 03:17:49.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was burnt to a crisp whilst fighting Blaze
+[30Dec2024 03:17:49.220] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:18:16.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to xentros10000]
+[30Dec2024 03:19:39.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 burned to death
+[30Dec2024 03:19:39.924] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:20:22.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -134.500000, 66.500000, 436.500000]
+[30Dec2024 03:20:23.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -132.500000, 64.500000, 441.500000]
