@@ -341,6 +341,7 @@
       "minecraft:forest": "2024-12-20 02:08:52 +0000",
       "minecraft:lush_caves": "2024-12-20 04:43:44 +0000",
       "minecraft:jungle": "2024-12-20 02:02:20 +0000",
+      "minecraft:ocean": "2024-12-30 02:19:45 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 03:28:48 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-20 03:31:02 +0000",
       "minecraft:deep_dark": "2024-12-20 02:28:52 +0000",
@@ -953,6 +954,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-20 02:08:16 +0000",
+      "minecraft:ghast": "2024-12-30 02:27:20 +0000",
       "minecraft:spider": "2024-12-20 02:19:08 +0000",
       "minecraft:creeper": "2024-12-20 03:49:44 +0000",
       "minecraft:cave_spider": "2024-12-20 04:00:40 +0000",
@@ -4340,6 +4342,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-30 02:26:38 +0000",
+      "minecraft:soul_sand_valley": "2024-12-30 02:27:14 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-30 02:14:01 +0000"
@@ -4355,6 +4364,18 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2024-12-30 02:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-30 02:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-30 02:26:36 +0000"
     },
     "done": true
   },
