@@ -8140,3 +8140,46 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 01:28:49.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4040.500000, 74.500000, 8036.500000]
 [30Dec2024 01:29:03.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3960.500000, 122.500000, 8118.500000]
 [30Dec2024 01:30:32.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [An Impostor Amoung Us]
+[30Dec2024 01:32:26.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 1000]
+[30Dec2024 01:33:08.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 01:33:08.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 01:37:45.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3893.500000, 78.500000, 8119.500000]
+[30Dec2024 01:38:08.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 01:38:08.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 01:39:05.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ice Dragon
+[30Dec2024 01:39:05.352] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-3879, y:88, z:8137, dim:minecraft:overworld]
+[30Dec2024 01:39:05.375] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 01:39:58.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was frozen by Ice Dragon
+[30Dec2024 01:39:58.780] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-3938, y:116, z:8186, dim:minecraft:overworld]
+[30Dec2024 01:39:58.799] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 01:40:32.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3888.500000, 76.500000, 8109.500000]
+[30Dec2024 01:40:47.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3740.500000, 92.500000, 8248.500000]
+[30Dec2024 01:41:48.199] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[30Dec2024 01:43:08.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 01:43:08.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 01:43:46.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3728.500000, 152.500000, 8418.500000]
+[30Dec2024 01:44:11.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3750.500000, 164.500000, 8585.500000]
+[30Dec2024 01:44:40.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3899.500000, 112.500000, 8660.500000]
+[30Dec2024 01:45:54.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Skeleton
+[30Dec2024 01:45:54.433] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-4105, y:82, z:8472, dim:minecraft:overworld]
+[30Dec2024 01:45:54.442] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 01:47:09.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was turned to ice by Ice Dragon
+[30Dec2024 01:47:09.929] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-4092, y:81, z:8474, dim:minecraft:overworld]
+[30Dec2024 01:47:09.940] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 01:48:04.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ice Dragon
+[30Dec2024 01:48:04.177] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-4101, y:82, z:8470, dim:minecraft:overworld]
+[30Dec2024 01:48:04.190] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 01:48:08.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 01:48:08.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 01:48:32.684] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lili'/17057, l='ServerLevel[world]', x=-4148.02, y=87.00, z=8489.72] died, message: 'Lili was turned to ice by Ice Dragon'
+[30Dec2024 01:48:32.692] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lili'/17057, l='ServerLevel[world]', x=-4148.02, y=87.00, z=8489.72] died: Lili was turned to ice by Ice Dragon
+[30Dec2024 01:48:39.174] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Albin'/17034, l='ServerLevel[world]', x=-4148.51, y=80.00, z=8479.49] died, message: 'Albin was slain by Ice Dragon'
+[30Dec2024 01:48:39.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Albin'/17034, l='ServerLevel[world]', x=-4148.51, y=80.00, z=8479.49] died: Albin was slain by Ice Dragon
+[30Dec2024 01:48:48.683] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Diether'/17008, l='ServerLevel[world]', x=-4148.96, y=80.50, z=8473.86] died, message: 'Diether walked into a cactus whilst trying to escape Ice Dragon'
+[30Dec2024 01:48:48.686] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Diether'/17008, l='ServerLevel[world]', x=-4148.96, y=80.50, z=8473.86] died: Diether walked into a cactus whilst trying to escape Ice Dragon
+[30Dec2024 01:49:04.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -4147.500000, 63.500000, 8428.500000]
+[30Dec2024 01:50:14.372] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Albin'/17055, l='ServerLevel[world]', x=-4144.31, y=89.50, z=8488.77] died, message: 'Albin was pricked to death'
+[30Dec2024 01:50:14.375] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Albin'/17055, l='ServerLevel[world]', x=-4144.31, y=89.50, z=8488.77] died: Albin was pricked to death
+[30Dec2024 01:50:56.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ice Dragon
+[30Dec2024 01:50:56.826] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-4152, y:63, z:8411, dim:minecraft:overworld]
+[30Dec2024 01:50:56.838] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
