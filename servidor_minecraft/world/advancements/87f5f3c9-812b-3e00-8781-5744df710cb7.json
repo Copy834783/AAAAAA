@@ -890,6 +890,7 @@
       "minecraft:vindicator": "2024-12-20 05:03:29 +0000",
       "minecraft:spider": "2024-12-20 02:26:03 +0000",
       "minecraft:creeper": "2024-12-20 02:11:21 +0000",
+      "minecraft:zombified_piglin": "2024-12-30 03:03:32 +0000",
       "minecraft:witch": "2024-12-20 04:10:48 +0000",
       "minecraft:wither_skeleton": "2024-12-30 02:34:01 +0000",
       "minecraft:piglin": "2024-12-30 02:31:51 +0000",
@@ -4362,6 +4363,48 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2024-12-30 02:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-30 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-30 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-30 03:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-30 03:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-30 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-30 03:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-30 03:08:05 +0000"
     },
     "done": true
   },

@@ -435,3 +435,23 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 02:59:45.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 moved too quickly! -4.2843321676830755,-9.396085137929461,0.27085868683983705
 [30Dec2024 03:00:18.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Magic Writing]
 [30Dec2024 03:01:25.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Into Fire]
+[30Dec2024 03:02:21.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 50.500000, 64.500000, -101.500000]
+[30Dec2024 03:02:34.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has reached the goal [Bone Crusher]
+[30Dec2024 03:02:44.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 41.500000, 73.500000, -98.500000]
+[30Dec2024 03:03:26.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to xentros10000]
+[30Dec2024 03:03:38.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Wither Skeleton
+[30Dec2024 03:03:38.680] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[30Dec2024 03:04:08.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to xentros10000]
+[30Dec2024 03:05:38.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has completed the challenge [Cannibal]
+[30Dec2024 03:06:01.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 157.500000, 51.500000, 40.500000]
+[30Dec2024 03:06:14.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 199.500000, 109.500000, 18.500000]
+[30Dec2024 03:07:18.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 withered away whilst fighting Wither Skeleton
+[30Dec2024 03:07:18.127] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:08:12.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to xentros10000]
+[30Dec2024 03:11:03.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Wither Skeleton
+[30Dec2024 03:11:03.083] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:11:54.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 withered away
+[30Dec2024 03:11:54.885] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:12:06.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> XD
+[30Dec2024 03:12:09.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> porq no habla
+[30Dec2024 03:12:20.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 92.500000, 69.500000, 76.500000]
