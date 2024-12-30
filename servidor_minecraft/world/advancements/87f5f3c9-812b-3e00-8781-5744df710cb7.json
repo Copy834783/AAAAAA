@@ -4366,9 +4366,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-30 03:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-30 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/spirit_campfire": {
+    "criteria": {
+      "has_datura": "2024-12-30 03:24:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-30 03:24:11 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_fruit": {
+    "criteria": {
+      "has_datura": "2024-12-30 03:24:18 +0000"
     },
     "done": true
   },
@@ -4390,9 +4414,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-30 03:24:11 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
     "criteria": {
       "requirement": "2024-12-30 03:09:44 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/decorations/crafting/spirit_torch": {
+    "criteria": {
+      "has_datura": "2024-12-30 03:24:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-30 03:24:11 +0000"
     },
     "done": true
   },
@@ -4411,6 +4453,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-30 03:08:05 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/datura": {
+    "criteria": {
+      "has_datura": "2024-12-30 03:24:18 +0000"
     },
     "done": true
   },

@@ -8519,3 +8519,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 03:19:39.924] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
 [30Dec2024 03:20:22.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -134.500000, 66.500000, 436.500000]
 [30Dec2024 03:20:23.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -132.500000, 64.500000, 441.500000]
+[30Dec2024 03:23:41.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:23:41.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:24:38.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Hidden in the Depths]
+[30Dec2024 03:25:12.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 burned to death
+[30Dec2024 03:25:12.029] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-134, y:15, z:456, dim:minecraft:the_nether]
+[30Dec2024 03:25:12.033] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:26:38.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 burned to death
+[30Dec2024 03:26:38.581] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-131, y:17, z:463, dim:minecraft:the_nether]
+[30Dec2024 03:26:38.587] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:27:13.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 burned to death
+[30Dec2024 03:27:13.179] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-129, y:20, z:461, dim:minecraft:the_nether]
+[30Dec2024 03:27:13.182] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 03:28:41.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:28:41.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:28:56.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -134.500000, 66.500000, 436.500000]
+[30Dec2024 03:29:07.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Wild Harvest]
+[30Dec2024 03:30:30.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Zombie
+[30Dec2024 03:30:30.869] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-994, y:68, z:3548, dim:minecraft:overworld]
+[30Dec2024 03:30:30.875] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
