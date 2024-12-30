@@ -964,7 +964,8 @@
       "minecraft:cave_spider": "2024-12-20 04:00:40 +0000",
       "minecraft:piglin": "2024-12-30 02:36:12 +0000",
       "minecraft:enderman": "2024-12-20 04:24:55 +0000",
-      "minecraft:zombie": "2024-12-20 02:19:37 +0000"
+      "minecraft:zombie": "2024-12-20 02:19:37 +0000",
+      "minecraft:drowned": "2024-12-30 03:58:56 +0000"
     },
     "done": false
   },
@@ -4454,6 +4455,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 03:59:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2024-12-30 03:48:53 +0000"
@@ -4463,6 +4470,12 @@
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2024-12-30 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2024-12-30 04:00:00 +0000"
     },
     "done": true
   },
@@ -4586,6 +4599,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_smoking": {
+    "criteria": {
+      "has_raw_drumstick": "2024-12-30 04:00:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2024-12-30 03:41:30 +0000"
@@ -4625,6 +4644,12 @@
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-30 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_drumstick": "2024-12-30 04:00:14 +0000"
     },
     "done": true
   },
@@ -4727,6 +4752,12 @@
   "iceandfire:recipes/combat/iron_hippogryph_armor": {
     "criteria": {
       "has_item": "2024-12-30 03:00:19 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked": {
+    "criteria": {
+      "has_raw_drumstick": "2024-12-30 04:00:14 +0000"
     },
     "done": true
   },

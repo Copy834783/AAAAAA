@@ -505,3 +505,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 04:01:29.286] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
 [30Dec2024 04:02:34.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-982, y=69, z=3535} BlockPos{x=-983, y=69, z=3534}
 [30Dec2024 04:02:34.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-982, y=69, z=3535} BlockPos{x=-983, y=69, z=3534}
+[30Dec2024 04:04:17.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [First Age]
+[30Dec2024 04:04:24.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 withered away
+[30Dec2024 04:04:24.275] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 04:04:48.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -998.500000, 78.500000, 3534.500000]
+[30Dec2024 04:09:16.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -965.500000, 83.500000, 3426.500000]
+[30Dec2024 04:11:10.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1044.500000, 74.500000, 3372.500000]
+[30Dec2024 04:12:29.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1007.500000, 69.500000, 3531.500000]
